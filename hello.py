@@ -1,3 +1,3 @@
 print("Hello!")
 print("Hello IT Network!")
-print("Hello World!")
+print("Ahoj světe!")
